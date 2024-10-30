@@ -1,0 +1,10 @@
+.logichop_ga_event {
+	width: 50%;
+}
+.logichop_ga_event_hidden {
+	display: none;
+}
+.logichop_google_analytics_clear {
+	font-size: 12px;
+	text-decoration: none;
+}
